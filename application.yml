@@ -13,6 +13,6 @@ spring:
       password: '{cipher}93912a660a7f3c04e811b5df9a3cf6e1f63850cdcd4aa092cf5a3f7e1662fab7'
 
 greeting:
-    message: Hello World! Hello 7 times !!
+    message: Hello World! Hello 8 times !!
 
 # test 2 
